@@ -79,7 +79,7 @@ If you want hype or beginner hand-holding — this isn’t it.
 
 ### Start Here
 
-👉 [**Getting Started**](group-3/c/getting-started.md)\
+👉 [**Getting Started**](overall/c/getting-started.md)\
 👉 **UAssets Explained**\
 👉 **C# Gameplay Patterns**\
 👉 **Blueprint Integration**

@@ -4,7 +4,7 @@
 
 ***
 
-### 1. **Texture2D**
+### 1. [**Texture2D**](uassets.md#id-1.-texture2d)
 
 **What**: 2D image data (albedo, normal, masks, UI).\
 **Use**: Materials, UI, decals, runtime swaps.\
@@ -13,7 +13,7 @@
 
 ***
 
-### 2. **Material**
+### 2. [**Material**](uassets.md#id-2.-material)
 
 **What**: Shader graph defining surface appearance.\
 **Use**: Static visual definitions.\

@@ -4,7 +4,6 @@
 
 * [Unreal Scripting](README.md)
 * [C#](overall/c/README.md)
-  * [Getting Started](overall/c/getting-started.md)
   * [Introduction](overall/c/introduction/README.md)
     * [Variables and Attributes](overall/c/introduction/0-variables-and-attributes.md)
     * [UAssets](overall/c/introduction/uassets.md)

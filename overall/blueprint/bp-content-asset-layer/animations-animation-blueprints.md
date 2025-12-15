@@ -1,2 +1,0 @@
-# BP Animations  Animation Blueprints
-

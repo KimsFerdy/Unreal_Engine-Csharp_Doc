@@ -77,7 +77,7 @@ If you want hype or beginner hand-holding — this isn’t it.
 
 ### Start here!
 
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="image">Cover image</th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Unreal C#</td><td><a href=".gitbook/assets/149602952.png">149602952.png</a></td><td><a href="/broken/pages/JVSOQY6CA1pWJZ98PBmV">Broken link</a></td></tr><tr><td>Unreal BP</td><td><a href=".gitbook/assets/1_qH9L7g0jtHDnk4qBScjprQ.webp">1_qH9L7g0jtHDnk4qBScjprQ.webp</a></td><td><a href="overall/blueprint/">blueprint</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="image">Cover image</th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Unreal C#</td><td><a href=".gitbook/assets/149602952.png">149602952.png</a></td><td><a href="/broken/pages/JVSOQY6CA1pWJZ98PBmV">Broken link</a></td></tr><tr><td>Unreal BP</td><td><a href=".gitbook/assets/1_qH9L7g0jtHDnk4qBScjprQ.webp">1_qH9L7g0jtHDnk4qBScjprQ.webp</a></td><td><a href="/broken/pages/bJYNR2zLGu8RKrjGk4wj">Broken link</a></td></tr></tbody></table>
 
 ***
 

@@ -34,7 +34,7 @@ UnrealScripting fixes that by:
 * Tools & utilities
 * Non-game Unreal applications
 
-> If you’re coming from Unity, this is your home.
+> If you’re coming from Other Engines like Unity, Godot, and other C# Game Engines, this is your home.
 
 ***
 
@@ -77,12 +77,9 @@ If you want hype or beginner hand-holding — this isn’t it.
 
 ***
 
-### Start Here
+### Start here!
 
-👉 [**Getting Started**](overall/c/getting-started.md)\
-👉 **UAssets Explained**\
-👉 **C# Gameplay Patterns**\
-👉 **Blueprint Integration**
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="image">Cover image</th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Unreal C#</td><td><a href=".gitbook/assets/149602952.png">149602952.png</a></td><td><a href="overall/c/">c</a></td></tr><tr><td>Unreal BP</td><td><a href=".gitbook/assets/1_qH9L7g0jtHDnk4qBScjprQ.webp">1_qH9L7g0jtHDnk4qBScjprQ.webp</a></td><td><a href="overall/blueprint/">blueprint</a></td></tr></tbody></table>
 
 ***
 
